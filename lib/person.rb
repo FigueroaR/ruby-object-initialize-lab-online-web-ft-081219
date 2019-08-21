@@ -11,3 +11,5 @@ class Person
     @name
   end 
 end
+
+person = Person.new 
