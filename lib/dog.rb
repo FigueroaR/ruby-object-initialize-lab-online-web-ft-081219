@@ -1,3 +1,3 @@
 class Dog 
-  initialize(name,breed)
+ def initialize(name,breed)
   
